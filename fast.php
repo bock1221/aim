@@ -11,12 +11,15 @@
     $this->myname = 'kieth williams';
     $this->addres = '58 clark st';
      echo 'my hat';
-     }
    }
+   function __door() {
+     $this->email = 'bock1221@yahoo.com'; 
+   }
+ }
   $kieth = new radio;
-  $keith2 = new radio;
-  $kieth->email = 'kieth@webizly.com';
-  print_r($kieth); 
+    
+
+  print_r($kieth);
 
              
 
